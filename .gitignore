@@ -1,0 +1,6 @@
+include/
+lib/
+.vscode/
+src/glad.c
+cutable.exe
+glfw3.dll
